@@ -1,0 +1,23 @@
+_repo: A-Ramble-of-Six-Thousand-Miles-through-the-United-States-of-America_11725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferrall, S. A. (Simon Ansley)
+    deathdate: 1844
+    gutenberg_agent_id: '4081'
+    url: http://www.gutenberg.org/2009/agents/4081
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+- GITenberg
+title: A Ramble of Six Thousand Miles through the United States of America
+url: http://www.gutenberg.org/ebooks/11725
