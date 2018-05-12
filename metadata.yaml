@@ -1,5 +1,8 @@
 _repo: A-Ramble-of-Six-Thousand-Miles-through-the-United-States-of-America_11725
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ferrall, S. A. (Simon Ansley)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '4081'
     url: http://www.gutenberg.org/2009/agents/4081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11725#A-Ramble-of-Six-Thousand-Miles-through-the-United-States-of-America
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
